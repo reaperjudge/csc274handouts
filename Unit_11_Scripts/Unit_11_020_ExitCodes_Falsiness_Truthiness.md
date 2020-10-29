@@ -34,7 +34,7 @@ A file is empty | File has at least 1 character
 
 ## exit code
 
-> ```$@``` is a variable that holds the exit code of the last command or function
+> ```$?``` is a variable that holds the exit code of the last command or function
 
 Exit code is an integer from 0 through 255 (1 byte)
 
